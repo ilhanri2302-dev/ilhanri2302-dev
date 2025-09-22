@@ -14,8 +14,8 @@ Open to learning, collaborating, and contributing to open-source
 ---
 
 ## 📌 Featured Projects 
-- [Weather App](#) – Fetch real-time weather using API  
-- [Portfolio Website](#) – My personal website  
+- Weather App– Fetch real-time weather using API  
+- 
 
 ---
 
