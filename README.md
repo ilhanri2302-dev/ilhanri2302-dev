@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m Ilhan 👋  
 
-<!--
-**ilhanri2302-dev/ilhanri2302-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AI & ML Specialization)  
+Exploring Python, Flutter, and Data Science  
+Passionate about AI/ML and building useful projects  
+Open to learning, collaborating, and contributing to open-source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Basics of Python | Java | Flutter | HTML/CSS | Git & GitHub  
+- Basics of AI/ML & Data Analytics  
+
+---
+
+## 📌 Featured Projects 
+- [Weather App](#) – Fetch real-time weather using API  
+- [Portfolio Website](#) – My personal website  
+
+---
+
+## 🌱 Currently
+- Learning Git & GitHub basics  
+- Exploring beginner ML projects  
+- Building my project portfolio  
